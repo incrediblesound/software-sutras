@@ -6,3 +6,7 @@ h1, h2 {
 .text-center {
   text-align: center;
 }
+
+a {
+  text-decoration: none;
+}
